@@ -48,15 +48,21 @@ img {
 
 .steg-info {
   padding-left: 10px;
+  list-style-type: none;
 }
 
 .info-header {
   color: #ACACAC;
   float: left;
-  border-right: 1px;
+  border-left: solid 1px black;
   font-variant: small-caps;
   font-size: 18px;
 }
+
+.info-header:first-child {
+border-left: none;
+}
+
 
 .info-para {
   color: #000;
