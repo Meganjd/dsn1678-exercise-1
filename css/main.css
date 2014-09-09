@@ -54,7 +54,8 @@ img {
 .info-header {
   color: #ACACAC;
   float: left;
-  border-left: solid 1px black;
+  padding: 0 10px;
+  border-left: solid 1px #CCCCCC;
   font-variant: small-caps;
   font-size: 18px;
 }
