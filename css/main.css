@@ -29,3 +29,21 @@ img {
   display: block;
   width: 100%;
 }
+
+.steg-caption {
+  color: #FFF;
+  font-family: serif;
+  font-size: 15px;
+  margin-top: -3.5rem;
+  padding: 0px 150px 10px 10px;
+}
+
+.steg-header {
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.steg-info {
+  padding-left: 10px;
+  float: left;
+}
