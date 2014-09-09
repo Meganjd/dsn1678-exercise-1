@@ -28,33 +28,34 @@ body {
   border-radius: 8px;
 }
 
-img {
+.steg-img {
   display: block;
   width: 100%;
+  padding-bottom: 1rem;
 }
 
 .steg-caption {
   color: #FFF;
   font-family: serif;
   font-size: 15px;
-  margin-top: -3.5rem;
-  padding: 0px 150px 10px 10px;
+  margin-top: -4rem;
+  padding: 0px 0px 10px 10px;
 }
 
 .steg-header {
   font-size: 20px;
-  padding-left: 10px;
+  padding: 3px 0 0 10px;
 }
 
 .steg-info {
-  padding-left: 10px;
+  padding-left: 4px;
   list-style-type: none;
 }
 
 .info-header {
   color: #ACACAC;
   float: left;
-  padding: 0 10px;
+  padding: 0 8px 0 10px;
   border-left: solid 1px #CCCCCC;
   font-variant: small-caps;
   font-size: 18px;
@@ -67,7 +68,7 @@ border-left: none;
 
 .info-para {
   color: #000;
-  padding-right: 2rem;
+  padding-right: 2.5rem;
   font-size: 15px;
   font-variant: normal;
 }
