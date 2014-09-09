@@ -14,6 +14,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  background-color: #DFDFDF;
 }
 
 *, *:before, *:after {
@@ -22,7 +23,9 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 0 5rem 0;
+  background-color: #FFF;
+  border-radius: 8px;
 }
 
 img {
@@ -45,5 +48,25 @@ img {
 
 .steg-info {
   padding-left: 10px;
-  float: left;
 }
+
+.info-header {
+  color: #ACACAC;
+  float: left;
+  border-right: 1px;
+  font-variant: small-caps;
+  font-size: 18px;
+}
+
+.info-para {
+  color: #000;
+  padding-right: 2rem;
+  font-size: 15px;
+  font-variant: normal;
+}
+
+
+
+
+
+
